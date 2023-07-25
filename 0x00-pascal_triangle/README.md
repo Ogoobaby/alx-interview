@@ -37,6 +37,6 @@ guillaume@ubuntu:~/0x00$ ./0-main.py
 guillaume@ubuntu:~/0x00$ 
 ```
 * File: [0-pascal_triangle.py](./0-pascal_triangle.py)
-### Authors &copy;
+### Author &copy;
 
 - Nwanochiri Ogochukwu GloriaMary
