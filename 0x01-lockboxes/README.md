@@ -40,4 +40,4 @@ carrie@ubuntu:~/0x01-lockboxes$
 * File: [0-lockboxes.py](./0-lockboxes.py)
 ### Authors &copy;
 
-- Eyoul Shimeles
+- Ogochukwu GloriaMary Nwanochiri
