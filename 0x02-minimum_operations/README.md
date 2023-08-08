@@ -40,4 +40,4 @@ carrie@ubuntu:~/0x02-minoperations$
 
 ### Authors &copy;
 
-- Eyoul Shimeles
+- Ogochukwu GloriaMary Nwanochiri
