@@ -80,4 +80,4 @@ alexa@ubuntu:~/0x03-log_parsing$
 
 ### Authors &copy;
 
-- Eyoul Shimeles
+- Ogochukwu GloriaMary Nwanochiri
