@@ -45,4 +45,4 @@ carrie@ubuntu:~/0x04-utf8_validation$
 * File: [-validate_utf8.py](./0-validate_utf8.py)
 ### Authors &copy;
 
-- Eyoul Shimeles
+- Ogochukwu GloriaMary Nwanochiri
