@@ -30,4 +30,4 @@ julien@ubuntu:~/0x08. N Queens$
 * File: [0-nqueens.py](./0-nqueens.py)
 ### Authors &copy;
 
-- Eyoul Shimeles
+- Ogochukwu GloriaMary Nwanochiri
