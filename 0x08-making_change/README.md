@@ -47,6 +47,6 @@ carrie@ubuntu:~/0x08-making_change$
 ```
 * File: [0-making_change.py](./0-making_change.py)
 
-### Authors &copy;
+### Author &copy;
 
-- Eyoul Shimeles
+- Ogochukwu GloriaMary Nwanochiri
